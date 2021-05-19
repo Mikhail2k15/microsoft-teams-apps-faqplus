@@ -673,7 +673,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can simply ask me a question and I will try my best to answer. If there are additional follow-ups, I will bring those as well....
+        ///   Looks up a localized string similar to {0} You can simply ask me a question and I will try my best to answer. If there are additional follow-ups, I will bring those as well....
         /// </summary>
         public static string FunctionCardText2 {
             get {
